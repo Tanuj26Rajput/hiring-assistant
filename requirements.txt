@@ -1,0 +1,7 @@
+langchain-core
+langchain-huggingface
+pydantic
+streamlit
+huggingface-hub
+python-dotenv
+google-genai
